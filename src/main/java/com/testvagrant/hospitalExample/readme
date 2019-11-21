@@ -1,8 +1,0 @@
-The solution highlights:
-
-- clear relationship between hospital and patients
-- solution is scalable, so tomorrow if we have to add more attributes to a patient like the department, diagnosis etc
-we know where to add what and also add relevant filters.
-- using collections for filtering patients for our requirement
-- currently data is being created in a java class, can also be moved to a separate json/csv data file
-- using Builder pattern to create patients

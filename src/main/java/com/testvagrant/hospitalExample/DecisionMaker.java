@@ -22,6 +22,13 @@ public class DecisionMaker {
         System.out.println("Total in Bangalore -- " + inPatientCount);
         System.out.println("Total Outstation -- " + outPatientCount);
 
+        Double inPatientPercentage = Double.valueOf(inPatientCount * 100 / patients.size());
+        Double outPatientPercentage = Double.valueOf(outPatientCount * 100 / patients.size());
+
+        System.out.println("Patients from Bangalore -- " + inPatientPercentage);
+        System.out.println("Patients from outside Bangalore -- " + outPatientPercentage);
+
+
     }
 
 
