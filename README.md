@@ -18,20 +18,20 @@ Chinmaya Mission Hospitals are often revered as the best hospitals for the poor 
   2. Find out the relations between the Hospital, patient
   3. Use viable data structures to handle at least 1000 patients per hospitalSuggested
 
-  Input:
-  Patient 1 :
+  ### Input:
+  * Patient 1:
    Name: Abc
    Place: Bangalore
    Age: 42,
-   Patient 2:
+  * Patient 2:
    Name: Def
    Place: Delhi
    Age: 23
-   Patient 3:
+  * Patient 3:
    Name: Ghi
    Place: Hyderabad
    Age: 34
 
-   Suggested Output:
-   Local Patients: 1
-   Outstation Patients: 2
+  ### Suggested Output:
+   * Local Patients: 1
+   * Outstation Patients: 2
