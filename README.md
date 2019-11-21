@@ -1,7 +1,6 @@
 # hospitalExample
-recruitment coding challenge example with solution
 
-Problem statement
+## Problem statement
 
 Chinmaya Mission Hospitals are often revered as the best hospitals for the poor and middle class house holders. With
  a new set of funds coming in, the CEO of chinmaya mission hospitals has decided to open new branches in various parts
@@ -14,7 +13,7 @@ Chinmaya Mission Hospitals are often revered as the best hospitals for the poor 
 
   Eg: From last 3 days 100 OP registrations took place of which 80% are from Bangalore and 20% are outstation.
 
-  Expectations:
+  **Expectations:**
   1. Build the solution with OOP concepts
   2. Find out the relations between the Hospital, patient
   3. Use viable data structures to handle at least 1000 patients per hospitalSuggested
