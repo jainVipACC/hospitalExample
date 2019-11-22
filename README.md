@@ -15,7 +15,7 @@ Chinmaya Mission Hospitals are often revered as the best hospitals for the poor 
 
   **Expectations:**
   1. Build the solution with OOP concepts
-  2. Find out the relations between the Hospital, patient
+  2. Find out the relations between the Hospital, Patient
   3. Use viable data structures to handle at least 1000 patients per hospitalSuggested
 
   ### Input:

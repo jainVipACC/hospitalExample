@@ -1,8 +1,7 @@
 package com.testvagrant.hospitalExample.builders;
 
 import com.testvagrant.hospitalExample.Patient;
-
-import java.util.Date;
+import com.testvagrant.hospitalExample.Visit;
 
 public class PatientBuilder {
 
@@ -12,18 +11,19 @@ public class PatientBuilder {
         return patient;
     }
 
-    public PatientBuilder withName(String name){
+    public PatientBuilder withName(String name) {
         patient.setName(name);
         return this;
     }
 
-    public PatientBuilder withLocation (String location){
+    public PatientBuilder withLocation(String location) {
         patient.setLocation(location);
         return this;
     }
 
-    public PatientBuilder withDate(Date visitDate){
-        patient.setVisitDate(visitDate);
+
+    public PatientBuilder withVisitingInfo(Visit visitingInfo) {
+        patient.setVisitingInfo(visitingInfo);
         return this;
     }
 }

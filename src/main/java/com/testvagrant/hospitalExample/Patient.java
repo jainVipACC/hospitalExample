@@ -7,7 +7,17 @@ public class Patient {
 
     private String name;
     private String location;
-    private Date visitDate;
+
+    public Visit getVisitingInfo() {
+        return visitingInfo;
+    }
+
+    public void setVisitingInfo(Visit visitingInfo) {
+        this.visitingInfo = visitingInfo;
+    }
+
+    private Visit visitingInfo;
+
 
     public String getName() {
         return name;
@@ -25,11 +35,5 @@ public class Patient {
         this.location = location;
     }
 
-    public Date getVisitDate() {
-        return visitDate;
-    }
 
-    public void setVisitDate(Date visitDate) {
-        this.visitDate = visitDate;
-    }
 }
