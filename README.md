@@ -1,6 +1,13 @@
 # hospitalExample
 
-## Problem statement
+## About the repo
+
+This repo has an example coding challenge (mentioned below) and solution for the same. The idea is to demonstrate
+expectation from the solution that we have when potential candidates go thorugh coding round as part of our hiring
+process.
+
+
+### Problem statement
 
 Chinmaya Mission Hospitals are often revered as the best hospitals for the poor and middle class house holders. With
  a new set of funds coming in, the CEO of chinmaya mission hospitals has decided to open new branches in various parts
